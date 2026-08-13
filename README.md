@@ -47,7 +47,7 @@ Security teams drown in CVEs. VulnComply answers the **three questions that matt
 
 ```bash
 # 1 · Clone
-git clone https://github.com/<you>/vulncomply-intelligence.git
+git clone https://github.com/nandha2001mroot/vulncomply-intelligence.git
 cd vulncomply-intelligence
 
 # 2 · Run (any static server)
@@ -160,7 +160,7 @@ CVE Intel → Vulnerability Risk → Asset Context → Compliance Impact → Rem
 
 1. Push to GitHub → **Settings → Pages** → *Deploy from branch* → `main` / `/ (root)`.
 2. `.github/workflows/deploy.yml` automates it.
-3. Visit `https://<you>.github.io/vulncomply-intelligence/`.
+3. Visit `https://nandha2001mroot.github.io/vulncomply-intelligence/`.
 </details>
 
 <details>
